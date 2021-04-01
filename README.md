@@ -1,4 +1,4 @@
-# teste-bot
+# Discord Crypto Bot
 
 ## This script implements a discord bot to receive cryptocurrency quotes in real time.
 
