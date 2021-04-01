@@ -10,8 +10,9 @@ from keep_alive import keep_alive
 
 # Help message to show on discord bot 
 
-helpMessage = "Help -> Help \n CoinConvert \n startswith € for euro \n startswith $ for Dollar  \n startswith & for Pound \n CRYPTO COIN \nBTC to bitcoin \nXRP to Riple"
+helpMessage = " HELP \n Bot Tipping Commands \n COIN CONVERT \n |€SYMBOL to quote SYMBOL coin in euro \n |$SYMBOL to quote SYMBOL coin in Dollar  \n |&SYMBOL to quote SYMBOL coin in pound \n\n Example: \n|€BTC to quote bitcoin in euros \n|$BTC to quote bitcoin in dollar \n|&BTC to quote bitcoin in pound " 
 ap_key=os.getenv('ap_key')
+
 
 
 # Discord
